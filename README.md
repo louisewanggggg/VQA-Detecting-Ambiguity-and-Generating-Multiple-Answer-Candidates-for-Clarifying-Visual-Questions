@@ -1,5 +1,5 @@
 # VQA-Detecting-Ambiguity-and-Generating-Multiple-Answer-Candidates-for-Clarifying-Visual-Questions
-**### Introduction**
+# Introduction
 This project explores ambiguity detection in Visual Question Answering (VQA) tasks. We propose a rule-enhanced binary classification approach to identify ambiguous questions based on entropy, visual similarity. Our method is tested on both the SIMMC 2.1 dataset.
 
 This repository includes:
@@ -7,7 +7,7 @@ Rule-based ambiguity scoring method
 Ambiguity classifier trained on interpretable features
 Evaluation code (precision, recall, F1, accuracy)
 
-### **References**
+# References
 Please cite or acknowledge the following works if you use this code:
 
 SIMMC 2.1 Dataset:
@@ -20,5 +20,5 @@ https://github.com/facebookresearch/vilbert-multi-task
 
 If you use this repository in your research or paper, please cite it accordingly.
 
-**### Author**
+# Author
 This project is part of my research on multimodal ambiguity detection. For feedback or collaboration, feel free to open an issue or contact me.
